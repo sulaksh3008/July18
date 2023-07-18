@@ -1,0 +1,150 @@
+.person_icon {
+  font-size: 25px;
+}
+
+li.nav-item {
+  margin-left: 50px;
+}
+
+.navbar-brand {
+  font-size: 2em;
+  font-style: "comic";
+}
+
+.nav-item {
+  font-size: 20px;
+}
+
+#hero {
+  height: 500px;
+  background: url(../images/bg.avif);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.tagline {
+  display: block;
+  color: white;
+  margin-left: 1.1em;
+  font-size: 4em;
+}
+
+header h1:nth-child(1) {
+  margin-top: 10px;
+}
+
+.navbar {
+  background-color: orange;
+}
+
+a.navbar-brand {
+  color: white;
+}
+
+a.nav-link {
+  color: white;
+}
+
+button.navbar-toggler {
+  color: white;
+}
+
+span.navbar-toggler-icon {
+  color: white;
+}
+
+.brand-section {
+  /* margin-left: 15%; */
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+div.f1 {
+  background: url(../images/f1.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-color: grey;
+  background-blend-mode: multiply;
+}
+div.f2 {
+  background: url(../images/f2.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-color: grey;
+  background-blend-mode: multiply;
+}
+div.f3 {
+  background: url(../images/f3.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-color: grey;
+  background-blend-mode: multiply;
+}
+/* .overlay {
+  width: 100%;
+  height: 100%;
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.3
+  )
+  z-index: 1;
+} */
+
+.f1,
+.f2,
+.f3 {
+  color: white;
+}
+
+#offers {
+  height: 400px;
+}
+
+.footer {
+  display: block;
+  background-color: orange;
+  color: white;
+}
+
+#contact {
+  height: 500px;
+  background: url(../images/contact.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.query {
+  background-color: #e1d9d1;
+  padding-top: 50px;
+}
+.hr {
+  width: 100px;
+  height: 1px;
+  margin: 0 auto;
+  background-color: red;
+}
+
+.content {
+  margin-top: 10rem;
+}
+
+.cont-section {
+  background-image: url("/images/about2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* opacity: 0.5;
+   */
+  filter: brightness(70%);
+  /* height: 500px; */
+}
+
+.cor-img {
+  height: 300px !important;
+}
+
+.prod-img {
+  height: 200px;
+}
